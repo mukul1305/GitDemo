@@ -8,9 +8,6 @@ MN
 OP
 QR
 ST
-UV
-WX
-YZ
 
 Code2
 12
@@ -28,3 +25,5 @@ Code2
 56
 34
 23
+=======
+>>>>>>> master
