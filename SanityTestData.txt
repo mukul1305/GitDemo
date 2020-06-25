@@ -8,6 +8,3 @@ MN
 OP
 QR
 ST
-UV
-WX
-YZ
